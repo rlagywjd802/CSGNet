@@ -10,11 +10,9 @@ dependencies:
   - pathlib2=2.3
   - scipy=0.19.1
   - torchvision
-  - pytorch=0.3
+  - pytorch=0.4.1
   - typing
   - scikit-image
   - six
   - pillow
   - configobj
-  - argparse=1.4
-  - json
